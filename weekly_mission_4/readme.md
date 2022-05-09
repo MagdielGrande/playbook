@@ -1,6 +1,6 @@
 # Semana 4 
 
-Proyectos desarrollados en la semana 3:
+Proyectos desarrollados en la semana 4:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
@@ -9,3 +9,6 @@ Proyectos desarrollados en la semana 3:
 |`Nuevo Feature Fizzbuzz`|3|[Link al repo](https://github.com/MagdielGrande/Feature_Fizzbuzz)|
 |`Contribution Open Source`|4|[Link al repo](https://github.com/MagdielGrande/fizzbuzz-Partnershsip)|
 |`Code Challenge (VisualThinking)`|5|[Link al repo](https://github.com/MagdielGrande/CodeChallenge)|
+|`Trello`|6|[Link al repo](https://github.com/MagdielGrande/trello_launch)|
+
+
